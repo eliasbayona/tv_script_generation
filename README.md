@@ -4,7 +4,7 @@ Generate TV scripts using RNNs. I'll be using part of the Seinfeld dataset of sc
 
 ##### Sample input
 
-[input image](./input.png)
+[input image](./INPUT.png)
 
 ##### Model Output
 
